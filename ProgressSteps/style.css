@@ -26,10 +26,11 @@
     align-items: center;
     justify-content: space-between;
     position: relative;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
+    margin-left: 200px;
+    margin-right:200px;;
     max-width: 100%;
-    width: 350px;
-    
+
     }
     
     
