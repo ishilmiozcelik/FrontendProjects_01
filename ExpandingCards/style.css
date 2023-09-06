@@ -3,6 +3,7 @@ box-sizing: border-box;
 }
 
 body{
+background-color: lightblue;
 font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 display: flex;
 align-items: center;
@@ -32,7 +33,7 @@ transition: flex 0.7s ease-in;
 }
 
 .panel h3{
-font-size: 10px;
+font-size: 20px;
 position: absolute;
 bottom: 20px;
 left: 20px;
